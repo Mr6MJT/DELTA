@@ -1,3 +1,6 @@
+
+cd bin && chmod +x scan
+cd ..
 black="\033[0;30m"        # Black
 red="\033[0;91m"          # Red
 green="\033[0;92m"        # Green
