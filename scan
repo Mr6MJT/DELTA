@@ -84,7 +84,8 @@ echo " "
 echo " "
 echo "Press Enter to continue"
 read ent
-sleep 0.5
+sleep 1
+cd ..
 clear
 
 
