@@ -1,1 +1,1 @@
-DELTA -> Linux Port Scanner.
+Simple Port Scanner
