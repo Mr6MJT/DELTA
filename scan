@@ -124,7 +124,7 @@ then
 elif [ $delta -eq 3 ]
 then
 	cd ..
-	rm -r DELTA && git clone https://github.com/Mr6MJT/DELTA && cd DELTA && bash scan
+	rm -r DELTA && git clone https://github.com/Mr6MJT/DELTA && cd DELTA && clear && bash scan
 elif [ $delta -eq 99 ]
 then
 	exit
