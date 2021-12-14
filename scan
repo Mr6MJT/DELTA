@@ -79,6 +79,16 @@ PURPLE=$(printf "$purple")
 
 
 printf "$RED"
+cd src && cat delta.txt
+echo " "
+echo " "
+echo "Press Enter to continue"
+read ent
+sleep 0.5
+clear
+
+
+printf "$RED"
 echo "1 - get the ip of a website using nslookup"
 printf "$WHITE"
 echo "2 - Port Scanner"
