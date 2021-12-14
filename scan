@@ -77,7 +77,7 @@ GREEN=$(printf "$green")
 YELLOW=$(printf "$yellow")
 PURPLE=$(printf "$purple")
 
-
+clear
 printf "$RED"
 cd src && cat delta.txt
 echo " "
