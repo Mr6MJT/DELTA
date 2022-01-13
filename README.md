@@ -1,4 +1,4 @@
-touch delta.txt && echo "Linux Port scanner" > delta.txt
+touch delta.txt && echo "Linux Port scanner :)" > delta.txt
 
 # $~ help:
 
