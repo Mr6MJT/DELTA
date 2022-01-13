@@ -1,6 +1,6 @@
-Simple Port Scanner
+touch delta.txt && echo "Linux Port scanner" > delta.txt
 
-# Not finished yet!
+# $~ help:
 
 
 cd src
