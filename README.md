@@ -10,4 +10,5 @@ touch delta.txt && echo "Linux Port scanner :)" > delta.txt && cat delta.txt
 </pre>
   
   
-# Not finished yet!
+# i will update it soon,now i want to continue learning ~_^
+# please <a href="https://github.com/Mr6MJT/DELTA">star</a> and <a href="https://github.com/Mr6MJT">FOLLOW</a>! 
