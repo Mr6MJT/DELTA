@@ -1,27 +1,13 @@
 touch delta.txt && echo "Linux Port scanner :)" > delta.txt && cat delta.txt
 
-# $~ help:
-
-
-cd src
-
-g++ scan.cpp -o scan
-
-g++ scan2.cpp -o scan2
-
-./scan (ip) (port)
-  
-<b> ex: </b>
-  
-./scan 0.0.0.0 80
-
-  
-./scan2 (ip) (starting port) (ending port)
-  
-<b> ex: </b>
-  
-./scan 0.0.0.0 1 1000
-
+<pre>  'help' 
+      #~ git clone https://github.com/Mr6MJT/DELTA
+      #~ cd /DELTA/src  
+      #~ g++ scan.cpp -o scan
+      #~ g++ scan2.cpp -o scan2
+      #~ ./scan 192.168.1.1 80            |:    ./scan (ip) (port)
+      #~ ./scan2 192.168.1.1 1 1000       |:    ./scan (ip) (starting port) (ending port)
+</pre>
   
   
 # Not finished yet!
