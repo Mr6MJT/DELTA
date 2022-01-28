@@ -1,7 +1,12 @@
-touch delta.txt && echo "Linux Port scanner :)" > delta.txt && cat delta.txt
+<pre> 'setup'
+      
+     #~ git clone https://github.com/Mr6MJT/DELTA  
+     #~ cd DELTA
+     #~ bash setup.sh
+</pre>
 
 <pre>  'help' 
-      #~ git clone https://github.com/Mr6MJT/DELTA
+
       #~ cd /DELTA/src  
       #~ g++ scan.cpp -o scan
       #~ g++ scan2.cpp -o scan2
